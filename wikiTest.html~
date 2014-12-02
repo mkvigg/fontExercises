@@ -4,34 +4,7 @@
 <title>Philadelphia</title>
 <meta charset="utf-8" />
 <style>
-body {
- font-size:100%;
- font-family: , sans-serif;
-}
-#mainHeading {
- font-size: 2em;
-}
-#lede{
- font-size: 1em;
-}
-#geography {
- font-size: 1em;
-}
-#topography {
-  font-size:.5em;
-}
-#cityPlanning {
-  font-size:1em;
-}
-#architecture {
-  font-size: 1em;
-  font-family: Georgia, sans-serif;
-  font-weight:
-  font-style:
-} 
-#demographics {
- font-size: 1em;
-}
+
 </style>
 </head>
 <body>
